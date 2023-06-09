@@ -1,2 +1,2 @@
-echo -n "SCHOOL" >
+echo -n "SCHOOL" > 
 school_data_file
