@@ -1,2 +1,2 @@
-echo -n "SCHOOL" > 
-school_data_file
+0 string SCHOOL School data
+!:mime School
